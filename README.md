@@ -1,4 +1,4 @@
-# 🎬 CineverseGPT
+# 🎬 Steamflix
 
 This web app developed using React & Firebase shows you information about movies. It also uses OpenAI APIs to suggest movies based on your prompt.
 
